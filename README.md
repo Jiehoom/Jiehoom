@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jiehoom
 - 👀 I’m interested in Java and front-end
 - 🌱 I’m currently learning Java and front-end
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to be a full-stack engineer
 - 📫 You can contact me at pdxxxhp@gmail.com
 
 <!---
